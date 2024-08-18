@@ -72,7 +72,7 @@ Here are some of the technologies I work with:
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-satrio-ajinoto-4a9a3b231/) or follow me on [Instagram](https://www.instagram.com/mhsatrioa/).
+I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-satrio-ajinoto-4a9a3b231/), follow me on [Instagram](https://www.instagram.com/mhsatrioa/), or email me at [satrio.ajinoto@gmail.com](mailto:satrio.ajinoto@gmail.com).
 
 ---
 
