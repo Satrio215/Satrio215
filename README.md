@@ -50,22 +50,30 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satrio215&theme=dark)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satrio215&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satrio215&theme=radical)](https://git.io/streak-stats)
 
-## 📈 GitHub Stats
+### 🌟 Top Languages
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satrio215&theme=dark)](https://github.com/Satrio215)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satrio215&theme=dark)](https://github.com/Satrio215)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satrio215&theme=dark)](https://github.com/Satrio215)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satrio215&theme=dark)](https://github.com/Satrio215)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satrio215&theme=dark)](https://github.com/Satrio215)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satrio215&layout=compact&theme=radical)](https://github.com/Satrio215)
+
+### 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satrio215&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/Satrio215)
+
+### 📊 Contribution Graph
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Satrio215&theme=radical)](https://github.com/Satrio215)
+
+### 🏆 Most Used Languages
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satrio215&theme=radical)](https://github.com/Satrio215)
+
+### ⏰ Productive Time
+
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satrio215&theme=radical)](https://github.com/Satrio215)
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-satrio-ajinoto-4a9a3b231/) or follow me on [Instagram](https://www.instagram.com/mhsatrioa/).
-
----
-
-⭐️ From [Satrio215](https://github.com/Satrio215)
+I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-satrio-ajinoto-4a9a3b231/) or follow me on [Instagram](https://www.instagram.com/mhsatr
