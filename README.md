@@ -76,4 +76,8 @@ I'm always open to collaborations and discussions. Feel free to reach out to me 
 
 ---
 
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+
 ⭐️ From [Satrio215](https://github.com/Satrio215)
