@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Muhammad+Satrio+Ajinoto,+a+backend+developer+%F0%9F%91%8B" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hai+Everyone;I'm+Muhammad+Satrio+Ajinoto,+a+backend+developer+%F0%9F%91%8B" width="70%" />
 <br><br>
 
 Welcome to my GitHub profile! I'm a backend developer passionate about coding and always eager to learn new technologies. Feel free to explore my projects and connect with me.
