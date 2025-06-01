@@ -25,6 +25,10 @@
   <li>MySQL</li>
   <li>Inertia.js</li>
   <li>JavaScript</li>
+  <li>JavaSpringBoot</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Tailwind CSS</li>
 </ul>
 
 <!-- Projects -->
