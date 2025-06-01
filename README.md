@@ -76,3 +76,7 @@ I'm always open to collaborations and discussions. Feel free to reach out to me 
 <br><br>
 
 ⭐️ From [Satrio215](https://github.com/Satrio215)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satrio215&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/Satrio215)
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Satrio215" alt="Pixel Profile GitHub Stats" width="100%" />
