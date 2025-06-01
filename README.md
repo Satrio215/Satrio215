@@ -15,31 +15,41 @@
 
 
 <!-- Tech Stack -->
-<h3 align="left"><img src="https://img.icons8.com/external-smashingstocks-detailed-outline-smashing-stocks/30/000000/external-code-coding-smashingstocks-detailed-outline-smashing-stocks.png"/> Tech Stack</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-800020?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=400&height=30&lines=Tech+Stack" alt="Tech Stack" />
 </p>
-
-<!-- Projects -->
-<h3 align="left"><img src="https://img.icons8.com/pastel-glyph/30/000000/project--v2.png"/> Featured Projects</h3>
-<ul>
-  <li><b>📸 Aduan Masyarakat App</b> — SPA Laravel + Inertia + React, Dockerized for deployment, with full CRUD and SweetAlert2 UI.</li>
-  <li><b>🗂️ Simple File Manager</b> — Manage and share files using Laravel backend and React frontend.</li>
-  <li><b>🧱 Pixel Dashboard UI</b> — Retro-style admin panel inspired by classic games.</li>
+<ul align="left">
+  <li>Laravel</li>
+  <li>React</li>
+  <li>Docker</li>
+  <li>MySQL</li>
+  <li>Inertia.js</li>
+  <li>JavaScript</li>
 </ul>
 
-<!-- Contact -->
-<h3 align="left"><img src="https://img.icons8.com/ios-glyphs/30/000000/contact-card.png"/> Contact Me</h3>
+<!-- Projects -->
 <p align="left">
-  <a href="mailto:satrioweb.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/satrio215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://satrio215.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=400&height=30&lines=Featured+Projects" alt="Featured Projects" />
 </p>
+<ul align="left">
+  <li><b>UMKM Bajo</b> – Laravel Inertia React SPA to help MSME entrepreneurs in Manggarai Barat manage their finances easily.</li>
+  <li><b>RAJA Brawijaya 2024</b> – Official orientation website for Universitas Brawijaya 2024. Built with Laravel and Laravel Mix.</li>
+  <li><b>KBMDSI 2024</b> – Laravel Inertia React website for the 2024 student association of KBMDSI FILKOM UB.</li>
+  <li><b>Kampung Budaya 2024</b> – Laravel Inertia React website for the Kampung Budaya 2024 cultural competition event.</li>
+  <li><b>EMUB 2024</b> – Laravel Inertia React-based site for the EMUB 2024 student organization at Universitas Brawijaya.</li>
+</ul>
+
+
+
+<!-- Contact -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=400&height=30&lines=Contact+Me" alt="Contact Me" />
+</p>
+<ul align="left">
+  <li>Email: <a href="mailto:satrio.ajinoto@gmail.com">satrio.ajinoto@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/muhammad-satrio-ajinoto/">linkedin.com/in/muhammad-satrio-ajinoto/</a></li>
+  <li>Portfolio: <a href="https://satrio.io/">satrio.io</a></li>
+</ul>
 
 
 
@@ -50,4 +60,3 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="kyubey gif" />
 </p>
 
-buat agar bagian techstack project dan contact lebih menarik menggunakan font 2p
